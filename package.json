@@ -1,0 +1,31 @@
+{
+  "name": "api-rest-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node node_modules/nodemon/bin/nodemon bin/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G-campos/api-rest-node.git"
+  },
+  "keywords": [],
+  "author": "G-campos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G-campos/api-rest-node/issues"
+  },
+  "homepage": "https://github.com/G-campos/api-rest-node#readme",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.4.0",
+    "mongoose": "^5.9.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}

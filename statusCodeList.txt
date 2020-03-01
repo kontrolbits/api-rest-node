@@ -1,0 +1,6 @@
+200: tudo OK
+201: criado
+400: sua requisição tem algum problema
+404: o conteúdo que você pediu não foi encontrado
+500: deu um problema no nosso servidor
+503: serviço inoperante
